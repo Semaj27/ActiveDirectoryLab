@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Project consists of how to create an Active Directory home lab Enviroment using Oracle Virual Box.
+Project consists of how to create an Active Directory home lab Environment using Oracle Virual Box.
 <br />
 
 
